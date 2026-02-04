@@ -5,7 +5,7 @@ The Newsletter 2025 will include activities and achievements from **July 2024 to
 To facilitate compilation, all departmental editors are requested to follow the instructions below.
 
 ### 1. Create a GitHub Account
-Create an account at:  
+Log in to your GitHub account OR Create an account at:  
 [https://github.com/](https://github.com/)
 
 ### 2. Fork the Newsletter Repository
