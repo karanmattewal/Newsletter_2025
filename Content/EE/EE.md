@@ -13,6 +13,7 @@ Associate Professor and H.O.D.
 (Department of Electrical Engineering)
 
 
+
 ## Department at Glimpse
 
 **Industrial Visit to NPTI , Nangal** :
