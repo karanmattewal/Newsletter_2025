@@ -16,33 +16,20 @@ Associate Professor and H.O.D.
 
 ## Department at Glimpse
 
-**Industrial Visit to NPTI , Nangal** :
+**Geconian PBX** :
+It's really proud moments for Guru Nanak Dev Engineering College as our CreatiVelo team(Genconian PBX) won the overall trophy .The CreatiVelo festival was organised  at Chitkara University by 1GEN and Youth4Planet( Luxembourg)
 
-An industrial visit to NPTI (National Power Training Institute), Nagal by Electrical Engineering Department was organized for Third year Students. Around 85 students visited the Institute with EED faculty.Er. Saurabh Mahajan, Assistant Director of NPTI gave interactive lecture to students about the emerging technologies in the power plant with a need of Renewable Sources. The students were shown Simulator for the nearby Plant and experienced the practical application of the subjects, they studied in the college.
 
-![WhatsApp Image 2023-03-31 at 11 08 42 AM](https://user-images.githubusercontent.com/78653670/229406985-b9a75861-0307-4af6-9f95-2d27250ba3bf.jpeg)   
-**Pf. Samreet Kaur, Pf.Arshdeep Kaur and Pf. Puneet** along with Third year students at National Power Training Institute(NPTI)
+![WhatsApp Image 2023-03-31 at 11 08 42 AM](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/CReat.jpeg)   
+![WhatsApp Image 2023-03-31 at 11 08 42 AM](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/creat1.jpeg) 
 
-**Workshop on Virtual Reality and artificially intelligence: perspective for industry 4.0**
+**Dr. Kanwardeep Singh, Pf.Rupinderjit Singh and Dr. Arvind Dhingra** along with students at Chitkara University
 
-A workshop was organised by E2S2 society of Electrical Engineering Department. The session was conducted by Er. Anubhi Khandewal (CEO, Terrafac Technology ).She explained the importance of VR and AI in industry. Students showed keen interest in the workshop. They were highly impressed with the hand on session by M/S TERRAFAC Technologies.
+**COP28 ( UNFCCC conference)**
+Students learned a lot about various techniques to reduce greenhouse gases and making the earth planet green & clean for coming generations..They got chance to interact with EV manufacturers,Fuel cell technologists ,Director of Dubai Municipality and water sanitation, Ministers of power & Education
 
-![VR](https://user-images.githubusercontent.com/78653670/229407165-98626c21-235e-4cb9-bb68-011d5fd2bdd2.jpeg)
-
-**Industrial Visit to SLDC , Patiala**
-
-![SLDC](https://user-images.githubusercontent.com/78653670/229407219-224a734b-0628-4d97-8846-b09308ba7f36.jpeg)
- 
- **Pf.Arshdeep Kaur, Pf.Sukhpal Singh and Pf. Puneet** along with Second year students at SLDC , Patiala.
-
-**Glimpses of Teacher’s day celebration organised by Students of Electrical Engineering Department.**
-![teacher day](https://user-images.githubusercontent.com/78653670/229407810-2e518b77-515e-40b6-9dbd-38b9abfbbf68.jpeg)
-
-**Dr Arvind Dhingra and Mentor’s of First Year Students ** Welcomed first year student of Electrical Engineering department.**
-![mentor](https://user-images.githubusercontent.com/78653670/229407912-f8398d9d-6af1-400c-b26d-82cf971eeabc.jpeg)
-
-**Organised expert lecture delivered by wonder automation training division on Industrial Drives and its usage**
-![automation](https://user-images.githubusercontent.com/78653670/229407994-6d3bd5c2-9b1f-4c71-96f6-18962694b6f5.jpeg)
+![VR](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/WhatsApp%20Image%202026-02-27%20at%203.18.49%20PM%20(1).jpeg)
+![VR1](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/WhatsApp%20Image%202026-02-27%20at%203.18.49%20PM.jpeg)
 
 
 
@@ -198,8 +185,3 @@ An industrial visit to Sunhome Cable Industries Private Limited, Chandigarh was 
 
 - **Mr. Khalid Ahmed (URN 2302783)** participated in **IDE Bootcamp Edition 2 – Phase 1** from 23-09-2024 to 27-09-2024 at Jaipur.
 
-- Organised expert lecture delivered by **Wonder automation training division** on Industrial Drives and its usage on 30th November 2022.
-
-  ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
-
- 
