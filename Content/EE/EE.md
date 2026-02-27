@@ -185,26 +185,19 @@ A workshop was organised by E2S2 society of Electrical Engineering Department. T
 
 ## Student's Corner  
 
-![project](Images/PRJ.jpeg)
+![project](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/BIS%201.jpg)
+![project](https://github.com/karanmattewal/Newsletter_2025/blob/main/Content/EE/Images/BIS2.jpg)
+
 An industrial visit to Sunhome Cable Industries Private Limited, Chandigarh was organized under the guidance of the Bureau of Indian Standards (BIS) for the students of Electrical Engineering from Guru Nanak Dev Engineering College. The visit was conducted with the participation of two faculty members and twenty-nine students, with the objective of providing practical exposure to industrial manufacturing practices and quality standards related to electrical cables.
 
-### Student's Achievements
+### Students' Achievements (2023–24)
 
-Project filed for Patent.
+- Teams of B.Tech. students won the **CRETIVELO Competition** for the academic year 2023–24, organized and sponsored by **1GEN**.
 
-- **Abhishek Goyal, Gurpartap Singh, Kunal Singla and Mainik Walia**
- made the project "Sky Robot" under the guidance of **Dr. Arvind Dhingra** .This robot is to help maintain a vigil against unwanted intruders. The robot is so designed so as to work effectively during day and night with same efficiency. The robot is capable of sending an alarm in case of any unwanted activity. This will help our soldiers guarding our borders to maintain effective vigil.
+- **Mr. Rajan**, B.Tech. (Electrical Engineering), attended a **two-day workshop at IIT Ropar** during 05–06 October 2024.
 
-- **Santokh Singh, Sapandeep Singh,Simranjeet Singh and Harpreet Singh** made the project "Palace Power Saver" under the guidance of **Pf. Arshdeep Kaur**. One of the major reason for designing this project, is the wastage of electricity especially at palaces, libraries, hostels, hotels, cinemas, parking and offices, where no one take responsibility to switch off the electrical equipment. This project is based on an intelligent electricity system which  automatically switched off the light/equipment when the room will empty.
-![ADK](https://user-images.githubusercontent.com/78653670/229409567-9e887350-d9a6-43c1-a0d7-7d626c295186.jpg)
-  
-  **Project: Palace Power Saver**
+- **Mr. Khalid Ahmed (URN 2302783)** participated in **IDE Bootcamp Edition 2 – Phase 1** from 23-09-2024 to 27-09-2024 at Jaipur.
 
-### Electrical Engineering Staff and Students (E2S2)
- 
-- Organised **General Body Meeting** two hours for EE students and staff by E2S2 under the guidance of Dr Arvind Dhingra on 2nd November,2023.
-- Organised **IEEE Lecture Series** for Third Year and Final Year Students Coordinated by Dr.Arvind Dhingra and Pf. Arshdeep Kaur.
-- Organised Workshop on **Virtual Reality and artificially intelligence:** perspective for industry 4.0 on 18th December 2022.
 - Organised expert lecture delivered by **Wonder automation training division** on Industrial Drives and its usage on 30th November 2022.
 
   ![12](https://user-images.githubusercontent.com/78653670/229409992-710fe9d0-6414-4976-94ab-be8ca5a67c2a.jpeg)
